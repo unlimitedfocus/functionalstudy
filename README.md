@@ -9,3 +9,5 @@
 * 정재남/ gomugom/ https://github.com/gomugom
 * 진영화/ jinyounghwa/ https://github.com/jinyounghwa
 * 허남진/ oxizen/ https://github.com/oxizen
+* 홍성남/ magnet/ https://github.com/magneticrose
+* 오지환/ fureweb/ https://github.com/fureweb
